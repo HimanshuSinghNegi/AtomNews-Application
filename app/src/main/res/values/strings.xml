@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtomNews</string>
+    <string name="sports_add_4k_tv_streaming_now_you_can_watch_sports_in_4k">Sports add 4K TV Streaming !! Now you can watch Sports in 4K</string>
+    <string name="description">This is Description of the news.This is Description of the news.This is Description of the news.This is Description of the news.This is Description of the news.This is Description of the news.</string>
+    <string name="hint_date">jul|2022|11</string>
+    <string name="hint_cat">Technology</string>
+</resources>

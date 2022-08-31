@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/drawable/bkg_text.xml" value="0.121" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/.xml" value="0.2078125" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/alata.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/alef.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/alegreya.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/alegreya_sans_thin.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/amiri.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/anton.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/font/arbutus.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/layout/activity_detail_view.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/AtomNews/app/src/main/res/layout/list_item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <pattern value="com.example.atomnews.MainActivity" method="loadData" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
